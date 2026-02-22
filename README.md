@@ -2,8 +2,9 @@
 ## 👋 Hello , 😄I am Haoying Sun ✨! 
 
  **😄 😄 😄 I am looking for jobs for 2027, my interest is video analysis, image restore, multi-modal pretraining, MLLMs, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)**
- <font color=red>
- **😄 😄 😄 I am looking for jobs for 2027, my interest is video analysis, image restore, multi-modal pretraining, MLLMs, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)** </font> 
+ 
+😄 😄 😄 I am looking for jobs for 2027, my interest is <span style="color: red;">**video analysis**</span>, <span style="color: red;">**image restore**</span>, <span style="color: red;">**multi-modal pretraining**</span>, <span style="color: red;">**MLLMs**</span>, <span style="color: red;">**computer vision**</span> or other feilds about <span style="color: red;">**multi modality**</span>!!! Welcome to chat with me by wechat(id:Alocus)
+
 
 <!-- - **🔭 I was an intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) .** -->
 
