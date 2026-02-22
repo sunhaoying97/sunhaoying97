@@ -1,7 +1,7 @@
 
-## 👋 Hello , 😄I am Haoying Sun ✨!
+## 👋 Hello , 😄I am Haoying Sun ✨! 
 
-<!-- - **😄 😄 😄 I am looking for jobs for 2027, my interest is video analysis, multi-modal pretraining, video-text retrieval, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)** -->
+ **😄 😄 😄 I am looking for jobs for 2027, my interest is video analysis, multi-modal pretraining, video-text retrieval, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)**
 
 
 <!-- - **🔭 I was an intern at [Alibaba DAMO Academy](https://damo.alibaba.com/) .** -->
