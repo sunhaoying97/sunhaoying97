@@ -1,7 +1,7 @@
 
 ## 👋 Hello , 😄I am Haoying Sun ✨! 
 
- **😄 😄 😄 I am looking for jobs for 2027, my interest is video analysis, image restore, multi-modal pretraining, MLLMs, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)**
+ **😄 😄 😄 I am looking for jobs for 2027, my interest is LLMs, MLLMs, video analysis, image restore, computer vision or other feilds about multi modality!!! Welcome to chat with me by wechat(id:Alocus)**
 
 
 
